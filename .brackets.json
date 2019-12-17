@@ -1,0 +1,9 @@
+{
+    "obigo-studio.app-tools.signatureCertificate": "OB.Obigo-SY.SsangyongLv1",
+    "obigo-studio.app-tools.signatureAccessLevel": "",
+    "obigo-studio.app-tools.buildOption": "build",
+    "obigo-studio.app-tools.contentsEncrypt": false,
+    "obigo-studio.app-tools.runTarget": "",
+    "obigo-studio.app-tools.installTarget": "device.root@10.28.6.132",
+    "obigo-studio.app-tools.remoteDebuggingTarget": ""
+}

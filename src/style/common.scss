@@ -1,0 +1,45 @@
+@font-face {
+  font-family:'NotoSansCJKkr-Light';
+  src: local('Noto Sans CJK KR LIght');
+}
+@font-face {
+  font-family:'NotoSansCJKkr-Regular';
+  src: local('Noto Sans CJK KR Regular');
+}
+@font-face {
+  font-family:'NotoSansCJKkr-Medium';
+  src: local('Noto Sans CJK KR Medium');
+}
+
+.head-nav {
+  height:80px;
+}
+.btn-nav {
+  a {
+    display: block;
+    width: 70px;
+    height: 70px
+    &:active {
+      background-position: -140px -70;
+    }
+  }
+}
+.head-nav{
+  position: relative;
+  height: 109px;
+  background-color: #1f1f1f;
+}
+.layer.content {
+  background-image: none;
+ }
+.prev{
+  display: block;
+  width: 70px;
+  height: 70px;
+  margin-right: 20px;
+}
+.next {
+  display: block;
+  width: 70px;
+  height: 70px;
+}

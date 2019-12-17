@@ -1,0 +1,117 @@
+body, html {
+  padding:0;
+  margin:0;
+}
+*{
+  box-sizing:border-box;
+}
+.content {
+  width:1154px;
+  height:650px;
+}
+// .days.layer {
+//   background-color: rgba(0,0,0,0.3);
+//   padding: 0 30px;
+//   color: #acacac;
+//   font-size: 30px;
+// }
+// .days-number {
+//   height: 70px;
+//   padding: 0 30px;
+//   background-color: rgba(0,0,0,0.3);
+//   & .layer {
+//     font-size: 30px;
+//     border-left: 1px solid #646464;
+//     border-right: 1px solid #646464;;
+//   }
+// }
+// .days {
+//   height: 50px;
+//   border-top: 1px solid #646464;
+//   background-color: rgba(0,0,0,0.3);
+//   border-bottom: 1px solid #646464;
+//   padding: 0 30px;
+// }
+// .sch-list.layer {
+//   margin: 0 30px;
+// }
+// .date.is-sun:before{
+//   left: -30px;
+//   width: 120%;
+// }
+// .date.is-sat:before {
+//   width: 120%;
+// }
+// .date {
+//   border-left: 1px solid #646464;
+//   &:active {
+//     background-color: #565c65;
+//   }
+// }
+// .date.is-sat {
+//   border-right: 1px solid #646464;
+// }
+// .date span{
+//   font-size: 30px;
+//   text-align: center;
+//   line-height: 225%;
+// }
+// .date:before {
+//   content: '';
+//   position: relative;
+//   left: 0;
+//   bottom: 0;
+//   display: block;
+//   width: 100%;
+//   height: 1px;
+//   background-color: #646464;
+// }
+// .evt-marker {
+//   position: relative;
+//   left: 72px;
+//   width: 10px;
+//   height: 10px;
+//   border-radius: 100%;
+//   background-color: #ffffff;
+// }
+// .week {
+//   .week-date ,.summary {
+//     color: #acacac;
+//     width: 156px;
+//     height: 133px;
+//     border-left: 1px solid #646464;
+//     white-space: nowrap;
+//     text-overflow: ellipsis;
+//   }
+//   .isContent {
+//     overflow: hidden;
+//     white-space: nowrap;
+//     text-overflow: ellipsis;
+//   }
+//   .summary:before {
+//     content: '';
+//     position: relative;
+//     left: 0;
+//     bottom: 0;
+//     display: block;
+//     width: 100%;
+//     height: 1px;
+//     background-color: #646464;
+//   }
+//   .week.is-sun > .summary:before{
+//     width: 120%;
+//     content: '';
+//     position: relative;
+//     left: -30px;
+//     bottom: 0;
+//     display: block;
+//     height: 1px;
+//     background-color: #646464;
+//   }
+//   .week.is-sat > .summary:before {
+//     width: 120%;
+//   }
+//   .week.is-sat > .summary {
+//     border-right: 1px solid #646464;
+//   }
+// }
