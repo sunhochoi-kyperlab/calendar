@@ -19,7 +19,7 @@
     "date-fns": "^1.29.0",
     "flow": "^0.2.3",
     "iscroll": "^5.2.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "node-schedule": "^1.3.0",
     "obigo-js-oauth-pscsp": "file:external/obigo-js-oauth-pscsp-1.0.0.tgz",
     "obigo-js-ui-rnbs": "file:external/obigo-js-ui-rnbs-1.0.20.tar.gz",
